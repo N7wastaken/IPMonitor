@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <rootnamespace>IPMonitor</rootnamespace>
+    <AssemblyName>IPMonitor</AssemblyName>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>IPM_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="9.2.0" />
+    <PackageReference Include="WinForms.DataVisualization" Version="1.10.0" />
+      <Content Include="IPM_icon.ico">
+          <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+  </ItemGroup>
+
+</Project>

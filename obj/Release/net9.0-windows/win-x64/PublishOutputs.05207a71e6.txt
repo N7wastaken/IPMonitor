@@ -1,0 +1,7 @@
+C:\Users\arkadiusz.mulkityn\MyWindowsApp\release\MyWindowsApp.pdb
+C:\Users\arkadiusz.mulkityn\MyWindowsApp\release\comerr64.dll
+C:\Users\arkadiusz.mulkityn\MyWindowsApp\release\gssapi64.dll
+C:\Users\arkadiusz.mulkityn\MyWindowsApp\release\k5sprt64.dll
+C:\Users\arkadiusz.mulkityn\MyWindowsApp\release\krb5_64.dll
+C:\Users\arkadiusz.mulkityn\MyWindowsApp\release\krbcc64.dll
+C:\Users\arkadiusz.mulkityn\MyWindowsApp\release\MyWindowsApp.exe
